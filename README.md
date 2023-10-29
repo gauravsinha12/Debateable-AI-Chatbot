@@ -1,6 +1,6 @@
 # Debateable AI Chatbot
 
-![Chatbot Image/Logo](chatbot_image.jpg)
+![Chatbot Image/Logo](chatbt_image.jpg)
 
 ## About
 
