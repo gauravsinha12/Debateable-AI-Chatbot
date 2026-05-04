@@ -4,7 +4,7 @@
 
 ## About
 
-The "Debateable AI Chatbot" is an AI-powered chatbot designed for engaging in debates, with a specific focus on the topic of Hindu temple destruction. The chatbot is powered by the Zephyr Quantasied 7B model and is trained to debate using its own views and opinions.
+The "Debateable AI Chatbot" is an AI-powered chatbot designed for engaging in debates, with a specific focus on the topic of temple. The chatbot is powered by the Zephyr Quantasied 7B model and is trained to debate using its own views and opinions.
 
 ## Features
 
@@ -16,7 +16,7 @@ The "Debateable AI Chatbot" is an AI-powered chatbot designed for engaging in de
 
 The "Debateable AI Chatbot" can be used to:
 
-- Engage in debates on the topic of Hindu temple destruction.
+- Engage in debates on the topic of temple.
 - Expand its capabilities to debate on other topics by further training.
 
 ## Getting Started
@@ -39,7 +39,7 @@ To get started with the chatbot, follow these steps:
 
 ## Dataset
 
-The chatbot was trained using a private dataset focused on the topic of Hindu temple destruction.
+The chatbot was trained using a private dataset focused on the topic of temple .
 
 ## Training
 
